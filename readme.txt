@@ -3,6 +3,6 @@ Git is free softwartributed under the GPL.
 Git has a mutable index called stage. 
 git tracks changes of filesfas
 
-
+reating a new branch is quickksdjfa::.
 
 sdfa
